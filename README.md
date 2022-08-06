@@ -1,1 +1,1 @@
-# Foundational Project - Gamers University Employee Reimbursement System
+# Foundational Project - TechnoGamers University Employee Reimbursement System
