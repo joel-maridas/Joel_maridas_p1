@@ -23,3 +23,9 @@ This project is about making an employee reimbursement system software that allo
 ![](Images/StateFlow%20Chart.jpg)
 ### Use-case Diagram
 ![](Images/use-caseFlowChatrt.jpg)
+## Technical Requirements
+-Java 8
+-Apache Maven
+-PostgreSQL (hosted on AWS RDS or localhost)
+-Git SCM (hosted on GitHub)
+-Postman
