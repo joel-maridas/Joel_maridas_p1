@@ -15,4 +15,5 @@ This project is about making an employee reimbursement system software that allo
   - Tickets can be approved or denied.
   - Tickets cannot change process after processing.
 5. Employees can view previous submissions
-  - Can filter by pending, approved or denied status.   
+  - Can filter by pending, approved or denied status.
+## Flowcharts  
