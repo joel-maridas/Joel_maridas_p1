@@ -21,3 +21,5 @@ This project is about making an employee reimbursement system software that allo
 ![](Images/FlowChart.jpg)
 ### State Flow Chart
 ![](Images/StateFlow%20Chart.jpg)
+### Use-case Diagram
+![](Images/use-caseFlowChatrt.jpg)
