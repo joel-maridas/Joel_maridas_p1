@@ -17,3 +17,4 @@ This project is about making an employee reimbursement system software that allo
 5. Employees can view previous submissions
   - Can filter by pending, approved or denied status.
 ## Flowcharts  
+![](Images/FlowChart.jpg)
