@@ -24,8 +24,8 @@ This project is about making an employee reimbursement system software that allo
 ### Use-case Diagram
 ![](Images/use-caseFlowChatrt.jpg)
 ## Technical Requirements
--Java 8
--Apache Maven
--PostgreSQL (hosted on AWS RDS or localhost)
--Git SCM (hosted on GitHub)
--Postman
+- Java 8
+- Apache Maven
+- PostgreSQL (hosted on AWS RDS or localhost)
+- Git SCM (hosted on GitHub)
+- Postman
