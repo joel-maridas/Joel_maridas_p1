@@ -9,7 +9,7 @@ This project is about making an employee reimbursement system software that allo
   - Must ensure the username is not already registered.
   - Default employee role.
 3. Employees can submit reimbursement tickets
-  - Must have an ammount.
+  - Must have an amount.
   - Must have a discription.
 4. Manager can process the tickets submitted by the employee
   - Tickets can be approved or denied.
