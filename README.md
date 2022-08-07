@@ -1,2 +1,3 @@
 # Foundational Project - TechnoGamers University Employee Reimbursement System
-__Summary__: This project is  
+##Summary 
+This project is about making an employee reimbursement system software that allows you to input expenses for approval throught one application.
